@@ -8,6 +8,10 @@ namespace ConsoleApp3
 {
     class Program
     {
+        static void Create()
+        {
+
+        }
         static void Main(string[] args)
         {
         }
